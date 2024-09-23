@@ -1,8 +1,6 @@
-@import "./vars.css";
-
 
 .App{
-    background-color: var(--color-bg);
+    background-color: rgba(rgb(232, 224, 224), rgb(238, 246, 238), rgb(131, 131, 143), 1);
 
     width: 100%;
     height: 100%;

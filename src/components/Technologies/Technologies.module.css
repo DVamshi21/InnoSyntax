@@ -1,0 +1,48 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  margin-top: 79px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 35px;
+  margin-bottom: 100;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+.content {
+    justify-items: center;
+    flex-direction: row;
+    margin-top: 14px;
+    width: 60%;
+    height: 60%;
+  }
+
+.skill{
+    width: 100px;
+    height: 100px;;
+}
+
+.skillImageContainer{
+    margin: 0px 30px;
+    margin-right: 20px;
+    display: inline-block;
+}
+.skillImageContainer img{
+    width:100%;
+    border-spacing: 100px;
+}
+
+
+
+/* .skillImageContainer{
+    
+    width: 200px;
+    height: 200px; 
+} */
+
